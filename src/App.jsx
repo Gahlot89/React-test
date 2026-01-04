@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>React Js Udemy</h1>
+      <h1 className='underline decoration-sky-500' >React Js Udemy</h1>
     </>
   )
 }
